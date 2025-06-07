@@ -30,15 +30,6 @@ Game development offers a rich ground for applying and improving programming ski
 
 ---
 
-## 🧪 Learning Outcomes
-
-- Proficiency in **SDL2 rendering pipeline** and **surface-to-texture management**
-- Understanding of **game physics**, especially gravity and bounce simulation
-- Development of a **real-time input and rendering loop**
-- Deeper experience in **structuring a non-trivial C++ application**
-
----
-
 ## 🚀 How to Run
 
 1. Make sure **SDL2** is installed on your system (headers and libraries).
