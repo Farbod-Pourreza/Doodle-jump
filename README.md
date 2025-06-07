@@ -49,7 +49,7 @@ Game development offers a rich ground for applying and improving programming ski
 3. Compile the source code:
    ```bash
    g++ main.cpp -o DoodleJump -lSDL2
-   
+   ```
    You may need to adjust include/linker flags depending on your setup.
 
 4. Run the game:
